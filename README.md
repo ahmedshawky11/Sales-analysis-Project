@@ -29,9 +29,9 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 # Sales Management Dashboard
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 - Sales Overview
-![image](https://user-images.githubusercontent.com/63034550/155964905-ff7152bf-98e2-4ea0-a4ab-8aaf6a503570.png)
+![image](https://user-images.githubusercontent.com/63034550/155978746-d1ccff7b-c3ab-4f4d-96a8-6ec3a7532af0.png)
 - Customer Details
-![image](https://user-images.githubusercontent.com/63034550/155964966-ba8b9018-ef65-4ff5-ad05-f4d1ed56865a.png)
+![image](https://user-images.githubusercontent.com/63034550/155978698-51372e3b-33d2-4782-b6fe-ddbc1b8e5495.png)
 - Product Details
 ![image](https://user-images.githubusercontent.com/63034550/155978422-b1aa6325-eff2-47ea-93af-7eec2cc346e0.png)
 

@@ -17,10 +17,10 @@ To create the necessary data model for doing analysis and fulfilling the busines
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
 
 Below are the SQL statements for cleansing and transforming necessary data.
-Cleansing Fact_Internetsales.sql
-Cleansing DIM_Product.sql
-Cleansing DIM_Date.sql
-Cleansing DIM_Customer.sql
+- Cleansing Fact_Internetsales.sql
+- Cleansing DIM_Product.sql
+- Cleansing DIM_Date.sql
+- Cleansing DIM_Customer.sql
 # Data Model
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 

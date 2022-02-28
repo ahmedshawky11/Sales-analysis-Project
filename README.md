@@ -33,8 +33,7 @@ The finished sales management dashboard with one page with works as a dashboard 
 - Customer Details
 ![image](https://user-images.githubusercontent.com/63034550/155964966-ba8b9018-ef65-4ff5-ad05-f4d1ed56865a.png)
 - Product Details
-![image](https://user-images.githubusercontent.com/63034550/155965045-3ea2b0f9-5c4c-4c84-8b52-33d3b6475975.png)
-
+![image](https://user-images.githubusercontent.com/63034550/155978422-b1aa6325-eff2-47ea-93af-7eec2cc346e0.png)
 
 
 
